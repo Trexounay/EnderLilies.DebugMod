@@ -2,6 +2,7 @@
 Debug mod for ENDER LILIES: Quietus of the night
 
 ## Instalation
+ - Download the latest [release](https://github.com/Trexounay/EnderLilies.DebugMod/releases)
  - Extract the zip file in the "Paks" directory of Ender Lilies' installation folder:
  `steamapps\common\ENDER LILIES\EnderLilies\Content\Paks\`
  - The mod should work from version 1.0.3 to version 1.1.6 of the game (Early Access requires another mod format)
