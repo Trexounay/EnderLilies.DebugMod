@@ -12,7 +12,7 @@ Debug mod for ENDER LILIES: Quietus of the night
 ![](https://i.imgur.com/cVu3sxn.jpg)
 
 ## Features
- - **[F2]** The debug menu left by the devs (not every features work in there but you can: fast travel anywhere, save in any room, add/remove abilities, set level/chapter/blights/hp/wishes/slots, equip spirits anywhere)
+ - **[F2]** The debug menu left by the devs (you can: fast travel anywhere, save in any room, add/remove abilities, set level/chapter/blights/hp/wishes/slots, equip spirits anywhere)
  - **[F3]** Invincibility, enemies can no longer touch you
  - **[F4]** Fly Mode, No clip
  - **[F5]** Show hitboxes of attacks and projectiles
