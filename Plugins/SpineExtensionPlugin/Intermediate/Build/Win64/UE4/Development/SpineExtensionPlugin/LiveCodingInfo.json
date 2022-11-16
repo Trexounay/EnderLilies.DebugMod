@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpineExtensionPlugin.cpp.obj": [
+			"BaseBoneComponent.cpp.obj",
+			"BaseFXComponent.cpp.obj",
+			"SpineAnimInstance.cpp.obj",
+			"SpineAnimNotify.cpp.obj",
+			"SpineAnimNotify_PlayParticleEffect.cpp.obj",
+			"SpineAnimNotify_PlaySound.cpp.obj",
+			"SpineAnimNotifyState.cpp.obj",
+			"SpineAnimNotifyState_TimedParticleEffect.cpp.obj",
+			"SpineAnimSequence.cpp.obj",
+			"SpineBoneComponent.cpp.obj",
+			"SpineExtensionPluginModule.cpp.obj",
+			"SpineFXComponent.cpp.obj",
+			"SpineNotifyAsset.cpp.obj",
+			"SpineSkeletonAnimationExComponent.cpp.obj"
+		],
+		"Module.SpineExtensionPlugin.gen.cpp.obj": [
+			"BaseBoneComponent.gen.cpp.obj",
+			"BaseFXComponent.gen.cpp.obj",
+			"ESpineBodyPart.gen.cpp.obj",
+			"ESpineBone.gen.cpp.obj",
+			"SpineAnimInstance.gen.cpp.obj",
+			"SpineAnimNotify.gen.cpp.obj",
+			"SpineAnimNotify_PlayParticleEffect.gen.cpp.obj",
+			"SpineAnimNotify_PlaySound.gen.cpp.obj",
+			"SpineAnimNotifyState.gen.cpp.obj",
+			"SpineAnimNotifyState_TimedParticleEffect.gen.cpp.obj",
+			"SpineAnimSequence.gen.cpp.obj",
+			"SpineBoneComponent.gen.cpp.obj",
+			"SpineExtensionPlugin.init.gen.cpp.obj",
+			"SpineFXComponent.gen.cpp.obj",
+			"SpineNotifyAsset.gen.cpp.obj",
+			"SpineSkeletonAnimationExComponent.gen.cpp.obj"
+		]
+	}
+}

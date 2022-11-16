@@ -1,0 +1,80 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.26\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"E:\ENDER LILIES\EnderLilies\Intermediate\Build\Win64\EnderLiliesEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\Module.SpineExtensionPlugin.cpp.obj"
+"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\Module.SpineExtensionPlugin.gen.cpp.obj"
+"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieScene\UE4Editor-MovieScene.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieSceneTracks\UE4Editor-MovieSceneTracks.lib"
+"E:\ENDER LILIES\EnderLilies\Plugins\ProceduralRenderMeshPlugin\Intermediate\Build\Win64\UE4Editor\Development\ProceduralRenderMeshPlugin\UE4Editor-ProceduralRenderMeshPlugin.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\PropertyPath\UE4Editor-PropertyPath.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"E:\ENDER LILIES\EnderLilies\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\UE4Editor-SpinePlugin.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\UMG\UE4Editor-UMG.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Binaries\Win64\UE4Editor-SpineExtensionPlugin.dll"
+/IMPLIB:"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\UE4Editor-SpineExtensionPlugin.suppressed.lib"
+/PDB:"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Binaries\Win64\UE4Editor-SpineExtensionPlugin.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_SpineExtensionPlugin

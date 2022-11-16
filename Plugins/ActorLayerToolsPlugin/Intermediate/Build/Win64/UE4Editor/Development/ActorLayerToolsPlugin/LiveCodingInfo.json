@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ActorLayerToolsPlugin.cpp.obj": [
+			"ActorLayerToolsBlueprintLibrary.cpp.obj",
+			"ActorLayerToolsPluginModule.cpp.obj",
+			"LayerName.cpp.obj"
+		],
+		"Module.ActorLayerToolsPlugin.gen.cpp.obj": [
+			"ActorLayerToolsBlueprintLibrary.gen.cpp.obj",
+			"ActorLayerToolsPlugin.init.gen.cpp.obj",
+			"LayerName.gen.cpp.obj"
+		]
+	}
+}

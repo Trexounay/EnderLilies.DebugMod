@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpineExtensionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ENDER LILIES\EnderLilies\Intermediate\Build\Win64\EnderLiliesEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\Module.SpineExtensionPlugin.cpp.obj"
+"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\Module.SpineExtensionPlugin.gen.cpp.obj"
+"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\Default.rc2.res"
+/OUT:"E:\ENDER LILIES\EnderLilies\Plugins\SpineExtensionPlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineExtensionPlugin\UE4Editor-SpineExtensionPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_SpineExtensionPlugin
