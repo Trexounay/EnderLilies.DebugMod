@@ -78,6 +78,8 @@ DerivedDataCache/*
 # FMOD Exception
 Plugins/FMODStudio/Intermediate/*
 
+Plugins/*/Intermediate/*
+
 # Spine Plugin
 Plugins/SpinePlugin/*
 *.ucas
