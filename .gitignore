@@ -87,3 +87,7 @@ Plugins/SpinePlugin/*
 *.utoc
 *.old
 Timestamp
+Intermediate
+/Plugins/EventPlugin/Intermediate
+/Plugins/ProceduralRenderMeshPlugin/Intermediate
+/Plugins/SpineExtensionPlugin/Intermediate

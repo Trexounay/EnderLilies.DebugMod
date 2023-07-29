@@ -1,8 +1,0 @@
-E:\ENDER LILIES\EnderLilies\Plugins\ActorLayerToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\ActorLayerToolsPlugin\Definitions.ActorLayerToolsPlugin.h
-E:/ENDER LILIES/EnderLilies/Plugins/ActorLayerToolsPlugin/Source/ActorLayerToolsPlugin/Private/ActorLayerToolsBlueprintLibrary.cpp
-E:\ENDER LILIES\EnderLilies\Plugins\ActorLayerToolsPlugin\Source\ActorLayerToolsPlugin\Public\ActorLayerToolsBlueprintLibrary.h
-E:\ENDER LILIES\EnderLilies\Plugins\ActorLayerToolsPlugin\Source\ActorLayerToolsPlugin\Public\LayerName.h
-E:\ENDER LILIES\EnderLilies\Plugins\ActorLayerToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\ActorLayerToolsPlugin\LayerName.generated.h
-E:\ENDER LILIES\EnderLilies\Plugins\ActorLayerToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\ActorLayerToolsPlugin\ActorLayerToolsBlueprintLibrary.generated.h
-E:/ENDER LILIES/EnderLilies/Plugins/ActorLayerToolsPlugin/Source/ActorLayerToolsPlugin/Private/ActorLayerToolsPluginModule.cpp
-E:/ENDER LILIES/EnderLilies/Plugins/ActorLayerToolsPlugin/Source/ActorLayerToolsPlugin/Private/LayerName.cpp
