@@ -13,18 +13,18 @@
 *.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+#*.so
+#*.dylib
+#*.dll
 
 # Fortran module files
 *.mod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+#*.lai
+#*.la
+#*.a
+#*.lib
 
 # Executables
 *.exe
@@ -47,10 +47,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
-Plugins/FMODStudio/*
-Plugins/SpinePlugin/*
+#Binaries/*
+#Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -79,9 +77,12 @@ DerivedDataCache/*
 Plugins/FMODStudio/Intermediate/*
 
 Plugins/*/Intermediate/*
+Plugins/*/Intermediate
 
-# Spine Plugin
+# Third Party Plugins
+Plugins/FMODStudio/*
 Plugins/SpinePlugin/*
+
 *.ucas
 *.pak
 *.utoc
