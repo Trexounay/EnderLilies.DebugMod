@@ -5,7 +5,7 @@ call "%UE4PATH%\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun^
  -project="%PROJPATH%\%PROJNAME%.uproject"^
  -prereqs -nodebuginfo -manifests -targetplatform=Win64 -clientconfig=Development -utf8output -iostore^
  -cook -stage -pak -package^
- -ddc=InstalledDerivedDataBackendGraph^
+ -ddc=InstalledDerivedDataBackendGraph
  
 if exist "%PROJPATH%\%MODNAME%\" RD /S /Q "%PROJPATH%\%MODNAME%"
 MKDIR "%PROJPATH%\%MODNAME%"
