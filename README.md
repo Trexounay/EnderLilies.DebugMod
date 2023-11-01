@@ -1,3 +1,4 @@
+**English** | [简体中文](README_CN.md)
 # EnderLilies.DebugMod
 Debug mod for ENDER LILIES: Quietus of the night
 
